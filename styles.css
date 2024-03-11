@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans&family=Rajdhani:wght@300;400;500;600&display=swap');
+
+/* Redefinir */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rajdhani';
+    font-size: 1.5rem;
+}
+
+/* Variáveis */
+
+:root {
+    /* Cores*/
+        /* Tema */
+        --MAIN-COLOR: #4A1D54;
+        --SCND-COLOR: #A8E375;
+        --THRD-COLOR: #6AA8D1;
+        /* Equipe */
+        --OFF-COLOR: #6E0F83;
+        --CEO-COLOR: #AA0000;
+        --COO-COLOR: #FF5555;
+        --ADM-COLOR: #FFAA55;
+        --DEV-COLOR: #2BD52B;
+        --ORG-COLOR: #55AAFF;
+        --ENG-COLOR: #00AAAA;
+        --COO-COLOR: #FFFF55;
+        --PRO-COLOR: #55FF55;
+        --CON-COLOR: #00AA00;
+        --MOD-COLOR: #55FFFF;
+        --BUI-COLOR: #00AAAA;
+        --AJU-COLOR: #5555FF;
+}
+
+/* Barra de Rolagem */
+::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #999;
+    position: fixed;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #555;
+    transition: 1s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #444;
+    border-radius: 100vw;
+}
+
+/*Principal */
+    /* Blocos*/
+
+    .header--banner {
+        background-image: url('banner.png');
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .header--navigation {
+        width: 100%;
+        background-color: var(--MAIN-COLOR);
+    }
+
+    main {
+        display: flex;
+        flex-direction: row;
+    }
+
+    /* Elementos*/
+
+    .header--banner img {
+        height: 3.8rem;
+        padding: 2rem;
+    }
+
+    .header--navigation ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 1rem;
+        margin: 0;
+    }
+
+    .header--navigation ul a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .header--navigation ul .page {
+        padding: 0.8rem;
+        border-bottom: 5px white solid;
+        color: white;
+    }
+
+    main #main {
+        margin: 1rem 0.5rem;
+        width: 59rem;
+        /* border: 3px blue dashed; */
+        height: 100rem;
+        box-sizing: border-box;
+    }
+
+    main #sidebar {
+        margin: 1rem 0.5rem;
+        width: 21rem;
+        border: 3px red dashed;
+        height: 100rem;
+        box-sizing: border-box;
+    }
+
+    .section {
+        background: whitesmoke;
+        border-radius: 1.4rem;
+        min-height: 20rem;
+        box-shadow: 0.3rem 0.3rem gainsboro;
+        margin-bottom: 1.4rem;
+    }
+
+    /* Modificadores*/
+
+    .section .user {
+        display: flex;
+        flex-direction: row;
+        padding: 1rem 0 0 1rem;
+        font-size: 1rem;
+        font-family: 'Public Sans';
+        justify-content: start;
+    }
+
+    .section .user img {
+        width: 2rem;
+        border-radius: 50%;
+        align-self: center;
+        margin: 0;
+    }
+
+    .section .user h5 {
+        align-self: center;
+        padding: 0.2rem;
+    }
+
+    /* Marcações de usuário */
+        .section .user .official {
+            background: var(--MAIN-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .staff {
+            background: var(--SCND-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .owner {
+            background: var(--CEO-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .ceo {
+            background: var(--COO-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .admin {
+            background: var(--ADM-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .developer {
+            background: var(--DEV-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .organizer {
+            background: var(--ORG-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .engineer {
+            background: var(--ENG-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .coordinator {
+            background: var(--COO-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .programmer {
+            background: var(--PRO-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .configurator {
+            background: var(--CON-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .moderator {
+            background: var(--MOD-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .builder {
+            background: var(--BUI-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .helper {
+            background: var(--AJU-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+        .section .user .member {
+            background: var(--THRD-COLOR);
+            border-radius: 0.2rem;
+            align-self: center;
+            font-size: 0.55rem;
+            color: white;
+            padding: 0.3rem;
+            font-weight: 600;
+            margin-right: 0.2rem;
+        }
+
+    .section h1 {
+        margin: 0;
+        padding: 1rem;
+    }
+
+    .section p {
+        margin: 0;
+        padding: 0.5rem 1rem 0.5rem;
+    }
+
+    .section .image {
+        padding: 1rem;
+        border-radius: 2rem;
+        width: 57rem;
+    }
