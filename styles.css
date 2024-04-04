@@ -22,21 +22,54 @@
   --f6161351-580c-4b6a-bdff-ad8aa0f13f70: 0;
 }
 
-/* Scrollbar */
-::-webkit-scrollbar {
-  width: 0.5rem;
+/* Styling */
+header {
+  background-image: url("banner.png");
+  background-size: cover;
+  background-position: center;
 }
-::-webkit-scrollbar-track {
-  background: #999;
-  position: fixed;
+
+header * {
+  color: var(--d53153c5-2bb6-4e80-8a94-25578440e6e1);
 }
-::-webkit-scrollbar-thumb {
-  background: #555;
-  transition: 1s;
+
+header nav ul {
+  list-style: none;
 }
-::-webkit-scrollbar-thumb:hover {
-  background: #444;
-  border-radius: 100vw;
+
+header nav ul a:hover {
+  text-decoration: underline;
+}
+
+header nav button {
+  color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
+  background: var(--d53153c5-2bb6-4e80-8a94-25578440e6e1);
+  border-radius: 1em;
+}
+
+header nav button:hover {
+  color: var(--6b1ee82f-3cb6-4887-b0fd-57c6d8aeea60);
+  background: var(--34ace198-814d-4bdd-a836-f8d0bd5d73f1);
+  border-radius: 1em;
+}
+
+main {
+  color: var(--6b1ee82f-3cb6-4887-b0fd-57c6d8aeea60);
+  background: var(--fab086d1-ad61-4538-9c7f-c8f016f77d40);
+}
+
+main section:nth-child(even) {
+  background: var(--34ace198-814d-4bdd-a836-f8d0bd5d73f1);
+}
+
+main section content p {
+  font-weight: 300;
+  color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
+}
+
+/* Behaviour */
+header nav button:hover {
+  cursor: pointer;
 }
 
 /* Layout */
@@ -54,7 +87,7 @@ header nav {
 
 header nav ul {
   display: flex;
-  gap: 6em;
+  gap: 8vw;
 }
 
 header nav button {
@@ -91,50 +124,16 @@ header nav img {
   width: 10em;
 }
 
-main section img {
-  min-width: 10em;
-  max-width: 30em;
-}
-
-/* Styling */
-header {
-  background-image: url("banner.png");
-  background-size: cover;
-  background-position: center;
-}
-
-header * {
-  color: var(--d53153c5-2bb6-4e80-8a94-25578440e6e1);
-}
-
-header nav ul {
-  list-style: none;
-}
-
-header nav ul a:hover {
-  text-decoration: underline;
-}
-
 header nav button {
-  color: var(--6b1ee82f-3cb6-4887-b0fd-57c6d8aeea60);
-  background: var(--d53153c5-2bb6-4e80-8a94-25578440e6e1);
-  border-radius: 1em;
   font-size: 0.9em;
 }
 
 header #title h1 {
-  font-size: 6em;
+  text-align: center;
+  font-size: 7.9vw;
   font-weight: 900;
 }
 
-main {
-  color: var(--6b1ee82f-3cb6-4887-b0fd-57c6d8aeea60);
-  background: var(--fab086d1-ad61-4538-9c7f-c8f016f77d40);
-}
-
-main section:nth-child(even) {
-  background: var(--34ace198-814d-4bdd-a836-f8d0bd5d73f1);
-}
 main section content h2 {
   font-size: 3em;
   font-weight: 500;
@@ -147,7 +146,115 @@ main section content p {
   color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
 }
 
-/* Behaviour */
-header nav button:hover {
-  cursor: pointer;
+main section img {
+  min-width: 1vw;
+  max-width: 20vw;
+}
+
+/*MQ*/
+@media(max-width:1296px) {
+  /* Styling */
+  header nav ul li {
+    background-color: var(--6b1ee82f-3cb6-4887-b0fd-57c6d8aeea60);
+  }
+
+  /* Behaviour */
+  header nav button:hover {
+    cursor: pointer;
+  }
+
+  /* Layout */
+  header {
+    display: flex;
+    flex-direction: column;
+    top: -7vw;
+    position: sticky;
+  }
+
+  header a img {
+    padding: 2vw 0;
+  }
+  
+  header nav {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+  
+  header nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+  }
+
+  header nav ul li {
+    padding: 1vw 10vw;
+  }
+  
+  header nav button {
+    display: none;
+  }
+  
+  header #title {
+    display: none
+  }
+  
+  main section content {
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+  }
+
+  /* Blocks */
+  header {
+    font-size: 1.8vw;
+  }
+
+  header nav img {
+    width: 10em;
+  }
+  
+  header nav button {
+    font-size: 0.9em;
+  }
+  
+  header #title h1 {
+    text-align: left;
+    font-weight: 900;
+  }
+  
+  main section content h2 {
+    font-size: 3em;
+    font-weight: 500;
+    line-height: 1em;
+  }
+  
+  main section content p {
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
+  }
+  
+  main section img {
+    min-width: 1vw;
+    max-width: 20vw;
+  }
+}
+
+
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+::-webkit-scrollbar-track {
+  background: #999;
+  position: fixed;
+}
+::-webkit-scrollbar-thumb {
+  background: #555;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #444;
+  border-radius: 100vw;
 }
