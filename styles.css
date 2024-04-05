@@ -18,8 +18,6 @@
   --34ace198-814d-4bdd-a836-f8d0bd5d73f1: #f3eaf7;
   --ebc70766-d6f5-475d-8006-409067ec6ef6: #322738;
   --fab086d1-ad61-4538-9c7f-c8f016f77d40: #faf1fe;
-  /* Values */
-  --f6161351-580c-4b6a-bdff-ad8aa0f13f70: 0;
 }
 
 /* Styling */
@@ -44,13 +42,13 @@ header nav ul a:hover {
 header nav button {
   color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
   background: var(--d53153c5-2bb6-4e80-8a94-25578440e6e1);
-  border-radius: 1em;
+  border-radius: 1vw;
 }
 
 header nav button:hover {
   color: var(--6b1ee82f-3cb6-4887-b0fd-57c6d8aeea60);
   background: var(--34ace198-814d-4bdd-a836-f8d0bd5d73f1);
-  border-radius: 1em;
+  border-radius: 1vw;
 }
 
 main {
@@ -82,7 +80,7 @@ header nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.2em 3em;
+  padding: 1.2vw 3vw;
 }
 
 header nav ul {
@@ -91,14 +89,13 @@ header nav ul {
 }
 
 header nav button {
-  padding: 1em 5em;
+  padding: 1.5vh 5vw;
 }
 
 header #title {
   display: flex;
   justify-content: center;
-  gap: 2.6em;
-  padding: 8em 12em 12em 12em;
+  padding: 8vh 12vw 12vh 12vw;
 }
 
 main {
@@ -107,25 +104,25 @@ main {
 }
 
 main section {
-  padding: 9em 8em;
+  padding: 9vh 8vw;
   display: flex;
   flex-direction: row;
-  gap: 6em;
+  gap: 6vw;
 }
 
 main section content {
   display: flex;
   flex-direction: column;
-  gap: 3em;
+  gap: 3vw;
 }
 
 /* Blocks */
 header nav img {
-  width: 10em;
+  width: 10vw;
 }
 
 header nav button {
-  font-size: 0.9em;
+  font-size: 0.9vw;
 }
 
 header #title h1 {
@@ -135,13 +132,13 @@ header #title h1 {
 }
 
 main section content h2 {
-  font-size: 3em;
+  font-size: 3vw;
   font-weight: 500;
   line-height: 1em;
 }
 
 main section content p {
-  font-size: 1.3rem;
+  font-size: 1.3vw;
   font-weight: 300;
   color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
 }
