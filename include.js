@@ -11,11 +11,10 @@ function includeHTML() {
               element.innerHTML = html;
           })
           .catch(error => {
-              console.error('Erro ao carregar o arquivo: ' + filePath, error);
+              console.error('Failed to load file: ' + filePath, error);
           });
       }
   });
 }
 
-// Chamar a função de inclusão ao carregar a página
 document.addEventListener('DOMContentLoaded', includeHTML);
