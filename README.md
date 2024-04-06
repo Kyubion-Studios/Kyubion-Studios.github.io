@@ -9,6 +9,29 @@ In order to maintain a seamless workflow within the team, it is imperative to es
 # ![Terms of Service](tos-banner.png)
 A comprehensive document outlining the contractual agreement between Kyubion Studios and its community members, delineating rights, obligations, and permissible actions within the realm of the Organization's products and services.
 
+## Membership Agreement
+By becoming a member of our team, you agree to adhere to all terms outlined in this document. Failure to comply with these terms may result in expulsion from the team.
+
+### Multi-Factor Authentication (MFA)
+All team members are required to enable Multi-Factor Authentication (MFA) on any account with high-risk permissions on any social platform. Kyubion Studios shall not be held responsible for any loss of accounts that may occur due to MFA activation.
+
+### Financial Responsibility
+As of April 2024, Kyubion Studios is unable to provide refunds for any team members.
+
+### Confidentiality Agreement
+Members agree not to disclose any internal information, download, or share links with external users without prior authorization from Kyubion Studios.
+
+### False Information Policy
+Any team member found to have provided false information in previous applications will be permanently barred from the team.
+
+### Activity Requirement
+All team members are expected to be periodically active and fulfill their duties at least twice a week.
+
+### Amendments to Terms
+Kyubion Studios reserves the right to amend these terms at any time. Any changes will be communicated to team members through the team's communication channels.
+
+> By continuing as a member of our team, you acknowledge that you have read, understood, and agreed to these terms. Failure to comply may result in disciplinary action, including expulsion from the team. If you have any questions or concerns regarding these terms, please contact our team administrator for clarification.
+
 ***
 # ![Internal Policies](ipp-banner.png)
 A structured set of guidelines governing the conduct, responsibilities, and operational protocols pertinent to Kyubion Studios' team members. These policies aim to streamline workflow, ensure accountability, and promote harmonious collaboration within the team.
