@@ -22,40 +22,40 @@ Kyubion Studios teams are organized into distinct segments:
 ## Hierarchy
 - ### Management
   - #### Office
-    - <span style="color:#580000">Chief Executive Officer</span>: Oversees strategic direction and overall management of the organization. 
-    - <span style="color:#d82323">Chief Operating Officer</span>: Responsible for day-to-day operations and organizational efficiency.
-    - <span style="color:#ff5959">Chief Development Officer</span>: Leads the development and implementation of the organization's projects and initiatives.
+    - <strong style="color:#580000">Chief Executive Officer</strong>: Oversees strategic direction and overall management of the organization. 
+    - <strong style="color:#d82323">Chief Operating Officer</strong>: Responsible for day-to-day operations and organizational efficiency.
+    - <strong style="color:#ff5959">Chief Development Officer</strong>: Leads the development and implementation of the organization's projects and initiatives.
   - Human Resources
-    - <span style="color:#bd6b00">Human Resources Manager</span>: Manages human resources policies, procedures, and employee relations.
-    - <span style="color:#ffaf00">Job Analyst</span>: Analyzes job requirements and develops job descriptions.
-    - <span style="color:#ffb320">Recruiter</span>: Recruits, interviews, and selects qualified candidates for employment.
+    - <strong style="color:#bd6b00">Human Resources Manager</strong>: Manages human resources policies, procedures, and employee relations.
+    - <strong style="color:#ffaf00">Job Analyst</strong>: Analyzes job requirements and develops job descriptions.
+    - <strong style="color:#ffb320">Recruiter</strong>: Recruits, interviews, and selects qualified candidates for employment.
 
 - ### Development
   - #### Technical
-    - <span style="color:#006d00">Senior Developer</span>: Leads technical development efforts and provides guidance to developers.
-    - <span style="color:#4bb34b">Developer</span>: Designs, codes, and implements software solutions.
+    - <strong style="color:#006d00">Senior Developer</strong>: Leads technical development efforts and provides guidance to developers.
+    - <strong style="color:#4bb34b">Developer</strong>: Designs, codes, and implements software solutions.
   - #### Artistic
-    - <span style="color:#00ff0b">Creative Director</span>: Sets creative vision and leads the artistic team.
+    - <strong style="color:#00ff0b">Creative Director</strong>: Sets creative vision and leads the artistic team.
     - **Pixel Artist:** Creates pixel art assets for mods.
     - **3D Modeler:** Designs and creates 3D models for game item, blocks and entities.
   - #### Gameplay
-    - <span style="color:#00bba7">Builder</span>: Constructs in-game environments and structures.
+    - <strong style="color:#00bba7">Builder</strong>: Constructs in-game environments and structures.
   - #### Quality Assurance
-    - <span style="color:#007ae2">Quality Assurance Supervisor</span>: Oversees quality assurance processes and teams.
-    - <span style="color:#68c6ff">Content Quality Tester</span>: Tests projects features to ensure quality and functionality.
+    - <strong style="color:#007ae2">Quality Assurance Supervisor</strong>: Oversees quality assurance processes and teams.
+    - <strong style="color:#68c6ff">Content Quality Tester</strong>: Tests projects features to ensure quality and functionality.
 
 - ### Community
   - #### Interaction
-    - <span style="color:#00053b">Community Manager</span>: Engages with the community, organizes events, and manages social media channels.
+    - <strong style="color:#00053b">Community Manager</strong>: Engages with the community, organizes events, and manages social media channels.
   - #### Moderation
-    - <span style="color:#2d5aff">Feedback Manager</span>: Collects, analyzes, and responds to community feedback.
-    - <span style="color:#5e5edb">Moderator</span>: Monitors and moderates online community platforms.
+    - <strong style="color:#2d5aff">Feedback Manager</strong>: Collects, analyzes, and responds to community feedback.
+    - <strong style="color:#5e5edb">Moderator</strong>: Monitors and moderates online community platforms.
   - #### Support
-    - <span style="color:#9938ff">Support Manager</span>: Manages user support operations and ensures timely resolution of issues.
-    - <span style="color:#9d77d3">Support Agent</span>: Provides assistance and support to users.
+    - <strong style="color:#9938ff">Support Manager</strong>: Manages user support operations and ensures timely resolution of issues.
+    - <strong style="color:#9d77d3">Support Agent</strong>: Provides assistance and support to users.
   - #### Contributors
-    - <span style="color:#ff30e4">Project Contributor</span>: Contributes to the development of our projects.
-    - <span style="color:#ca1697"> Community Contributor</span>: Contributes to the community through various means such as content creation or engagement activities.
+    - <strong style="color:#ff30e4">Project Contributor</strong>: Contributes to the development of our projects.
+    - <strong style="color:#ca1697"> Community Contributor</strong>: Contributes to the community through various means such as content creation or engagement activities.
 
 ***
 # ![Project Documentation](pdoc-banner.png)
