@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
-    <link rel="website icon" type="png" href="logo.png" />
-    <title>Kyubion Studios</title>
-  </head>
-  <body>
-    <header>
-      <nav>
-        <a href="#"><img src="title.png" alt="Home" /></a>
-        <ul>
-          <li><a href="#">Projects</a></li>
-          <li><a href="#">Support</a></li>
-          <li><a href="#">Careers</a></li>
-          <li><a href="#">About</a></li>
-        </ul>
-        <a href="https://www.patreon.com/KyubionStudios">
-          <button>Patreon</button>
-        </a>
-      </nav>
-      <section id="title">
-        <h1>KYUBION STUDIOS</h1>
-      </section>
-    </header>
-    <main>
-  </body>
-</html>
-
+# ![Home](ks-main-banner.png)
 Kyubion Studios, herein referred to as "the Organization," is a content development team specializing in Minecraft gameplay enhancements. Our primary objective is to cultivate a large and engaged community by creating diverse mods, datapacks, resource packs, and, furthermore, through the establishment of our forthcoming Arkyon minecraft server.
 
 ---
