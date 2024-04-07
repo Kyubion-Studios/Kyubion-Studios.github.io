@@ -1,4 +1,4 @@
-<!DOCTYPE md>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -10,7 +10,7 @@
   <body>
     <header>
       <nav>
-        <a href="index.html"><img src="title.png" alt="Home" /></a>
+        <a href="#"><img src="title.png" alt="Home" /></a>
         <ul>
           <li><a href="#">Projects</a></li>
           <li><a href="#">Support</a></li>
@@ -26,8 +26,9 @@
       </section>
     </header>
     <main>
+  </body>
+</html>
 
-# ![Banner](ks-main-banner.png)
 Kyubion Studios, herein referred to as "the Organization," is a content development team specializing in Minecraft gameplay enhancements. Our primary objective is to cultivate a large and engaged community by creating diverse mods, datapacks, resource packs, and, furthermore, through the establishment of our forthcoming Arkyon minecraft server.
 
 ---
@@ -142,6 +143,3 @@ Established protocols delineating the preferred modes of communication, frequenc
 ---
 
 By adhering to these documented guidelines, Kyubion Studios endeavors to optimize team efficiency, foster clarity, and uphold professional standards in pursuit of our shared goals.
-
-  </body>
-</html>
