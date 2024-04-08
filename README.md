@@ -9,7 +9,7 @@ In order to maintain a seamless workflow within the team, it is imperative to es
 
 ---
 
-# ![Terms of Service](tos-banner.png)
+# ![Terms of Service](tct-banner.png)
 
 A comprehensive document outlining the contractual agreement between Kyubion Studios and its community members, delineating rights, obligations, and permissible actions within the realm of the Organization's products and services.
 
