@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+
 ![Home](ks-main-banner.png)
 Kyubion Studios, herein referred to as "the Organization," is a content development team specializing in Minecraft gameplay enhancements. Our primary objective is to cultivate a large and engaged community by creating diverse mods, datapacks, resource packs, and, furthermore, through the establishment of our forthcoming Arkyon minecraft server.
 
@@ -48,7 +52,7 @@ Kyubion Studios teams are organized into distinct segments:
 3. **Positions:** Within the divisions, positions are assigned to employees, who carry out their duties based on the defined roles and responsibilities.
 
 ![](brief_layers_sketch2.png)
-![](brief_layers_sketch.png)
+<img id="aloalo" src="brief_layers_sketch.png">
 
 ## Hierarchy
 
