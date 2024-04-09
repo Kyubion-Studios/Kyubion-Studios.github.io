@@ -1,5 +1,6 @@
 <head>
   <link rel="stylesheet" href="styles.css"/>
+  <link rel="website icon" type="png" href="logo.png"/>
 </head>
 
 ![Home](ks-main-banner.png)
