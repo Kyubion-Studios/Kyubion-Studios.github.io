@@ -1,21 +1,13 @@
-# ![Home](ks-main-banner.png)
+![Home](ks-main-banner.png)
 Kyubion Studios, herein referred to as "the Organization," is a content development team specializing in Minecraft gameplay enhancements. Our primary objective is to cultivate a large and engaged community by creating diverse mods, datapacks, resource packs, and, furthermore, through the establishment of our forthcoming Arkyon minecraft server.
 
----
-
-# ![About](abt-banner.png)
+![About](abt-banner.png)
 
 In order to maintain a seamless workflow within the team, it is imperative to establish definitive guidelines that facilitate optimal comprehension among team members. Presented herewith are the potentially exhaustive documentations deemed essential to enhance the team's understanding:
 
----
+![Terms of Service](tct-banner.png)
 
-# ![Terms of Service](tct-banner.png)
-
-A comprehensive document outlining the contractual agreement between Kyubion Studios and its community members, delineating rights, obligations, and permissible actions within the realm of the Organization's products and services.
-
-## Membership Agreement
-
-By becoming a member of our team, you agree to adhere to all terms outlined in this document. Failure to comply with these terms may result in expulsion from the team.
+A comprehensive document outlining the contractual agreement between Kyubion Studios and its team members. By continuing as a member of our team, you acknowledge that you have read, understood, and agreed to these terms. Failure to comply may result in disciplinary action, including expulsion from the team.
 
 ### Multi-Factor Authentication (MFA)
 
@@ -23,7 +15,7 @@ All team members are required to enable Multi-Factor Authentication (MFA) on any
 
 ### Financial Responsibility
 
-As of April 2024, Kyubion Studios is unable to provide refunds for any team members.
+Kyubion Studios is unable to provide refunds for any team members.
 
 ### Confidentiality Agreement
 
@@ -35,17 +27,15 @@ Any team member found to have provided false information in previous application
 
 ### Activity Requirement
 
-All team members are expected to be periodically active and fulfill their duties at least twice a week.
+All team members are encouraged to engage periodically and contribute to the team's efforts, as per their role and availability. While some roles may not necessitate frequent activity, everyone's participation and input is evaluated.
 
 ### Amendments to Terms
 
 Kyubion Studios reserves the right to amend these terms at any time. Any changes will be communicated to team members through the team's communication channels.
 
-> By continuing as a member of our team, you acknowledge that you have read, understood, and agreed to these terms. Failure to comply may result in disciplinary action, including expulsion from the team. If you have any questions or concerns regarding these terms, please contact our team administrator for clarification.
+> If you have any questions or concerns regarding these terms, please contact the COO for clarification.
 
----
-
-# ![Internal Policies](ipp-banner.png)
+![Internal Policies](ipp-banner.png)
 
 A structured set of guidelines governing the conduct, responsibilities, and operational protocols pertinent to Kyubion Studios' team members. These policies aim to streamline workflow, ensure accountability, and promote harmonious collaboration within the team.
 
@@ -56,6 +46,9 @@ Kyubion Studios teams are organized into distinct segments:
 1. **Departments:** These are specific sectors within Kyubion Studios that handle different aspects or interests of the organization.
 2. **Divisions:** Each department is further subdivided into groups, with each group focusing on a particular area within that department.
 3. **Positions:** Within the divisions, positions are assigned to employees, who carry out their duties based on the defined roles and responsibilities.
+
+![](brief_layers_sketch2.png)
+![](brief_layers_sketch.png)
 
 ## Hierarchy
 
@@ -98,18 +91,13 @@ Kyubion Studios teams are organized into distinct segments:
     - <strong style="color:#ff30e4">Project Contributor</strong>: Contributes to the development of our projects.
     - <strong style="color:#ca1697"> Community Contributor</strong>: Contributes to the community through various means such as content creation or engagement activities.
 
----
-
-# ![Project Documentation](pdoc-banner.png)
+![Project Documentation](pdoc-banner.png)
 
 Detailed documentation pertaining to ongoing and prospective projects undertaken by Kyubion Studios. This includes project briefs, specifications, milestones, and timelines, providing clarity regarding project objectives, requirements, and progress tracking.
 
----
-
-# ![Communication Protocols](cp-banner.png)
+![Communication Protocols](cp-banner.png)
 
 Established protocols delineating the preferred modes of communication, frequency of updates, and channels for inter-team correspondence. These protocols aim to facilitate effective communication, minimize misunderstandings, and foster a cohesive team environment.
 
 ---
-
 By adhering to these documented guidelines, Kyubion Studios endeavors to optimize team efficiency, foster clarity, and uphold professional standards in pursuit of our shared goals.
