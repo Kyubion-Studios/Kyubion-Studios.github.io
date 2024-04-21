@@ -50,26 +50,28 @@ main section {
 
 main section content {
   display: flex;
+  justify-content: center;
   flex-direction: column;
   gap: 3vw;
 }
 
 /* Blocks */
-main section content h2 {
-  font-size: 2vw;
+main section h2 {
+  font-size: 3vw;
   font-weight: 500;
   line-height: 2vw;
 }
 
-main section content p {
-  font-size: 1.3vw;
+main section p {
+  font-size: 2vw;
   font-weight: 300;
-  line-height: 1vw;
+  line-height: 2vw;
   color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
 }
 
 main section img {
   width: 15vw;
+  height: 15vw;
 }
 
 /* Scrollbar */

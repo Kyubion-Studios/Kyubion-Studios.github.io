@@ -21,88 +21,86 @@
 }
 
 /* Styling */
-header {
-  background-image: url("banner.png");
-  background-size: cover;
-  background-position: center;
+footer {
+  background-color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
 }
 
-header * {
+footer * {
   color: var(--d53153c5-2bb6-4e80-8a94-25578440e6e1);
 }
 
-header nav ul {
+footer nav ul {
   list-style: none;
 }
 
-header nav ul a:hover {
+footer nav ul a:hover {
   text-decoration: underline;
 }
 
-header nav ul li span {
+footer nav ul li span {
   text-decoration: line-through;
 
 }
 
-header nav button {
+footer nav button {
   color: var(--ebc70766-d6f5-475d-8006-409067ec6ef6);
   background: var(--d53153c5-2bb6-4e80-8a94-25578440e6e1);
   border-radius: 1vw;
 }
 
-header nav button:hover {
+footer nav button:hover {
   color: var(--6b1ee82f-3cb6-4887-b0fd-57c6d8aeea60);
   background: var(--34ace198-814d-4bdd-a836-f8d0bd5d73f1);
   border-radius: 1vw;
 }
 
 /* Behaviour */
-header nav button:hover {
+footer nav button:hover {
   cursor: pointer;
 }
 
 /* Layout */
-header {
+footer {
   display: flex;
   flex-direction: column;
 }
 
-header nav {
+footer nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1.2vw 3vw;
 }
 
-header nav ul {
+footer nav ul {
   display: flex;
   gap: 8vw;
 }
 
-header nav button {
+footer nav button {
   padding: 1.2vw 5vw;
 }
 
-header #title {
+footer #title {
   display: flex;
   justify-content: center;
   padding: 8vw 12vw 12vw 12vw;
 }
 
 /* Blocks */
-header nav img {
+footer nav img {
   width: 10vw;
 }
 
-header nav button {
+footer nav button {
   font-size: 1vw;
 }
 
-header nav ul {
+footer nav ul {
   font-size: 1.2vw;
 }
 
-header #title h1 {
+footer #title h1 {
   text-align: center;
   font-size: 7.9vw;
   font-weight: 900;
