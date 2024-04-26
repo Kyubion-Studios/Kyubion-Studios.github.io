@@ -1,9 +1,4 @@
-<head>
-  <link rel="stylesheet" href="styles.css"/>
-  <link rel="shortcut icon" type="image/x-icon" href="/logo.png">
-</head>
-
-![Home](ks-main-banner.png)
+# ![About](ks-main-banner.png)
 This is Kyubion Studios! Your destination for unique and innovative Minecraft content. 
 
 ## Who We Are
@@ -22,7 +17,7 @@ We believe in maintaining a friendly and approachable demeanor with our users. W
 
 Our vision is to become a leading source of groundbreaking Minecraft content, releasing new projects regularly while maintaining a high standard of quality and innovation.
 
-![Internal Relations](ir-banner.png)
+# ![Internal Relations](ir-banner.png)
 
 Kyubion Studios is dedicated to fostering creativity and collaboration among its members. Teams within the organization work on various projects to achieve our shared goals.
 
@@ -46,7 +41,7 @@ At the organization, we uphold certain core principles that guide our work:
 - Respect: We maintain an environment of mutual respect, where all opinions are heard and considered seriously.
 - Equity: We ensure that all members are treated fairly and equitably, regardless of their position or experience.
 
-![Terms of Service](tct-banner.png)
+# ![Team Commitment Terms](tct-banner.png)
 
 By continuing as a member of our team, you acknowledge that you have read, understood, and agreed to these terms. Failure to comply may result in disciplinary action, including expulsion from the team.
 
