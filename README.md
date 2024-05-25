@@ -41,7 +41,7 @@ At the organization, we uphold certain core principles that guide our work:
 - Respect: We maintain an environment of mutual respect, where all opinions are heard and considered seriously.
 - Equity: We ensure that all members are treated fairly and equitably, regardless of their position or experience.
 
-# ![Team Commitment Terms](tct-banner.png)
+# ![Team Guidelines](tg-banner.png)
 
 By continuing as a member of our team, you acknowledge that you have read, understood, and agreed to these terms. Failure to comply may result in disciplinary action, including expulsion from the team.
 
