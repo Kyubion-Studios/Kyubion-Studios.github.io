@@ -45,38 +45,32 @@ At the organization, we uphold certain core principles that guide our work:
 
 By continuing as a member of our team, you acknowledge that you have read, understood, and agreed to these terms. Failure to comply may result in disciplinary action, including expulsion from the team.
 
-## Multi-Factor Authentication (MFA)
-All team members are required to enable Multi-Factor Authentication (MFA) on any account with high-risk permissions on any social platform. Kyubion Studios shall not be held responsible for any loss of accounts that may occur due to MFA activation.
-*Multi-Factor Authentication adds an extra layer of security to your accounts by requiring additional verification beyond just a password. This helps protect sensitive information and reduces the risk of unauthorized access.*
+## Extra Account Security (MFA)
+We suggest everyone turn on Multi-Factor Authentication (MFA) for any accounts that have dangerous permissions on social platforms. This extra step helps keep your accounts safe and sound.
+*MFA adds a layer of security by asking for extra verification beyond just a password. It helps keep sensitive info secure and reduces the risk of unauthorized access.*
 
-## Financial Responsibility
-As of April 2024 Kyubion Studios is unable to provide payment for any team members. Team members participate on a voluntary basis and should not expect monetary compensation for their involvement.
-*It's important for team members to understand that Kyubion Studios cannot reimburse them for any expenses.*
+## Voluntary Participation
+As of April 2024, We can't offer payment to team members.
+*Everyone here is a volunteer, so please don't expect to get paid.*
 
-## Confidentiality Agreement
-Members agree not to disclose any internal information, download, or share links with external users without prior authorization from Kyubion Studios.
-*Confidentiality is crucial to protecting sensitive company information and trade secrets. By agreeing to this confidentiality agreement, team members are committing to safeguarding the privacy and security of the company's proprietary information.*
+## Keeping Things Private
+Please don't share any internal info or links with anyone outside the team without permission.
+*Keeping things confidential is super important to protect our sensitive info. By following this, you're helping keep our team's privacy and security intact.*
 
-## False Information Policy
-Any team member found to have provided false information in any application will be permanently barred from the team. Maintaining honesty and integrity is essential within our team
-*This policy ensures that all information provided by team members is accurate and truthful, fostering an environment of trust and accountability.*
+## Honesty is Important
+If anyone gives false information in their application, they won't be able to stay on the team. Honesty and integrity are really important to us.
 
-## Activity Requirement
-All team members are encouraged to engage periodically and contribute to the team's efforts, as per their role and availability.
-*This means that it's important for team members to actively participate and contribute to the team's goals and objectives to ensure the overall success of the project.*
+## Stay Active and Involved
+We encourage everyone to stay involved and contribute to the team as much as they can, according to their role and availability.
+*This means it's important to actively participate and help out the team, to make sure our project is a success! :D*
 
 ## Positions Limitation
-Requesting to apply for a specific position outside of the designated application period is not permitted. All applicants will be evaluated equally and impartially when positions become available, ensuring fairness and equal opportunity for all members.
-*This ensures that team members are assigned roles based on their qualifications and expertise, promoting efficiency and accountability within the team structure.*
+To apply for a specific position, you must fill out the application form during the designated period. Even if you're already part of the team, we can't assign you a role just because you requested it.
+*This ensures that all applicants are evaluated equally and fairly when positions become available, promoting fairness and equal opportunity for all members.*
 
-## Promotion and Transfer Policy
-Team members may only be promoted, demoted, or transferred to positions within their respective divisions.
-*This policy ensures that promotions and transfers are based on merit and suitability for the role, aligning with the company's organizational structure and operational requirements.*
+## Role Permissions
+Team members have the permissions associated with their own role as well as all roles below theirs.
+*This policy ensures that team members have the necessary access to perform their duties effectively, while maintaining an organized and hierarchical structure.*
 
-## Single Role Agreement
-Team members may hold only one position within the team.
-*This policy prevents conflicts of interest and ensures that team members can fully dedicate themselves to their assigned roles without spreading themselves too thin.*
-
-## Amendments to Terms
-Kyubion Studios reserves the right to amend these terms at any time.
-*Any changes will be communicated to team members through the team's communication channels.*
+## Updates to Terms
+Any changes will be communicated to team members through the team's communication channels.
