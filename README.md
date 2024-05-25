@@ -43,7 +43,7 @@ At the organization, we uphold certain core principles that guide our work:
 
 # ![Team Guidelines](tg-banner.png)
 
-By continuing as a member of our team, you acknowledge that you have read, understood, and agreed to these terms. Failure to comply may result in disciplinary action, including expulsion from the team.
+By continuing as a member of the organization, you acknowledge that you have read, understood, and agreed to these guidelines. Failure to comply may result in disciplinary action, including expulsion from the team.
 
 ## Extra Account Security (MFA)
 We suggest everyone turn on Multi-Factor Authentication (MFA) for any accounts that have dangerous permissions on social platforms. This extra step helps keep your accounts safe and sound.
