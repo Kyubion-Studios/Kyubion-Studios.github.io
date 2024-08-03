@@ -1,4 +1,6 @@
-# HTML
+# Notes for internal using
+Yes, they're poorly written, because it's not a permanent/definitive guideline
+
 # CSS
 ## Groups
 Put these styles in those groups. The groups also need to be in the following sequence:
